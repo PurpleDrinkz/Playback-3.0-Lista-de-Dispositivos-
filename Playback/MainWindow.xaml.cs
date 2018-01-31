@@ -30,7 +30,7 @@ namespace Playback
         DispatcherTimer timer;
         bool dragging = false;
 
-
+         
         public MainWindow()
         {
             InitializeComponent();
